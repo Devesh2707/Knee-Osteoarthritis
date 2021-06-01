@@ -26,7 +26,7 @@ The dataset used here was from [DPhi Knee-Osteoarthritis Detection Challenge]('h
 2. **Models** - Used 3 different architectures namely *Densenet121, Densenet161* and *Resnext50_32x4d*.
 3. **Loss Function, Optimizer and Learning Rate** - *Binary Cross Entropy* and *AdamW* with weight decay set to 1e-3 and learning rate set to 1e-4
 4. **Schedular** - *CosineAnnealingWarmRestarts* with T_0 = 5 and T_mult = 1 with minimum learning rate set to 1e-6
-5. Validation - Stratified 5-fold validation. 
+5. **Validation** - Stratified 5-fold validation. 
 
 ## Streamlit App
 
