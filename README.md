@@ -30,6 +30,8 @@ The dataset used here was from [DPhi Knee-Osteoarthritis Detection Challenge]('h
 
 ## Streamlit App
 
+#### Online Link :- https://share.streamlit.io/devesh2707/knee-osteoarthritis/main/app.py
+
 #### To run app on your local machine:
 
 1. Make sure python==3.6 or above is installed.
