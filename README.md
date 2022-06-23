@@ -34,7 +34,7 @@ The dataset used here was from [DPhi Knee-Osteoarthritis Detection Challenge]('h
 
 #### Streamlit Server :- https://share.streamlit.io/devesh2707/knee-osteoarthritis/main/app.py
 
-(There might be a possibility that I would terminate the EC2 instance because of the limited free-tier hours, but the streamlit server will always be running.)
+(There might be a possibility that I would terminate the EC2 instance in the future because of the limited free-tier hours, but the streamlit server will always be running.)
 
 #### To run app on your local machine:
 
