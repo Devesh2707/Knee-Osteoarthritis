@@ -32,6 +32,8 @@ The dataset used here was from [DPhi Knee-Osteoarthritis Detection Challenge]('h
 
 #### AWS EC2 :- http://ec2-15-207-71-136.ap-south-1.compute.amazonaws.com/
 
+**EC2 instance is currently terminated**
+
 #### Streamlit Server :- https://share.streamlit.io/devesh2707/knee-osteoarthritis/main/app.py
 
 (There might be a possibility that I would terminate the EC2 instance in the future because of the limited free-tier hours, but the streamlit server will always be running.)
